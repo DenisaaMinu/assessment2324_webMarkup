@@ -1,0 +1,5 @@
+Student name: Denisa Minu
+Student number: 720645
+Student class: IT1B
+GitHub Repository:
+GitHub Pages:
